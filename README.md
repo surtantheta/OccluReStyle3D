@@ -16,6 +16,10 @@ ReStyle3D’s stylization becomes unstable—causing <b>flicker</b>, <b>semantic
 </p>
 
 
+https://github.com/user-attachments/assets/cd4abc75-1f67-49c5-b0f5-403180a3c60e
+
+
+
 <ul>
   <li><b>Human occlusion breaks correspondences:</b> background pixels disappear and reappear, complicating stable appearance transfer.</li>
   <li><b>Humans get stylized unintentionally:</b> ReStyle3D transfers style to humans as part of semantic categories, instead of treating them as dynamic occluders.</li>
