@@ -15,11 +15,6 @@ the stylized background must remain <b>stable under occlusion and disocclusion</
 ReStyle3D’s stylization becomes unstable—causing <b>flicker</b>, <b>semantic leakage onto the human</b>, and <b>inconsistency</b> in re-exposed regions.
 </p>
 
-<!-- TODO: Replace with your GitHub user
-
-https://github.com/user-attachments/assets/e0a6b857-2675-4a55-a6ff-60f7e3ced5ec
-
--attachments video link -->
 
 <ul>
   <li><b>Human occlusion breaks correspondences:</b> background pixels disappear and reappear, complicating stable appearance transfer.</li>
