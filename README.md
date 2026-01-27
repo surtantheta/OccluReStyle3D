@@ -16,7 +16,10 @@ ReStyle3D’s stylization becomes unstable—causing <b>flicker</b>, <b>semantic
 </p>
 
 
-https://github.com/user-attachments/assets/cd4abc75-1f67-49c5-b0f5-403180a3c60e
+
+https://github.com/user-attachments/assets/66ce0deb-c363-4bd2-b702-ea1685979a8c
+
+
 
 
 
