@@ -20,15 +20,6 @@ ReStyle3D’s stylization becomes unstable—causing <b>flicker</b>, <b>semantic
 https://github.com/user-attachments/assets/66ce0deb-c363-4bd2-b702-ea1685979a8c
 
 
-
-
-
-<ul>
-  <li><b>Human occlusion breaks correspondences:</b> background pixels disappear and reappear, complicating stable appearance transfer.</li>
-  <li><b>Humans get stylized unintentionally:</b> ReStyle3D transfers style to humans as part of semantic categories, instead of treating them as dynamic occluders.</li>
-  <li><b>Temporal consistency is not guaranteed:</b> stylization can flicker across frames, especially near occlusion boundaries.</li>
-</ul>
-
 <p>
 Conclusion: <b>ReStyle3D cannot be trivially extended to dynamic scenes involving human occlusion</b> without additional modeling.
 A dedicated <b>temporally consistent, occlusion-aware stylization module</b> is required.
